@@ -1,4 +1,4 @@
-- 👋 Olá, eu sou o @dkribeirop, Desenvolvedor Fullstack Javascript e Tech Lead.
+- 👋 Olá, eu sou o @dkribeirop, Desenvolvedor Fullstack Javascript.
 - 👀 Me interesso por criação e desenvolvimento de produtos, inteligência artificial, banco de dados e internet das coisas.
 - 🌱 Atualmente estou trabalhando no desenvolvimento do produto de Benefícios no PicPay, responsável tecnologicamente pelo back-end.
 - 📫 Você pode me encontrar no slack como @Dk Ribeiro ou no andre.ribeiro@picpay.com
