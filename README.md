@@ -1,9 +1,4 @@
-- 👋 Olá, eu sou o @dkribeirop, Desenvolvedor Fullstack Javascript.
+- 👋 Olá, eu sou o @dkribeirop, Desenvolvedor Fullstack desde 2008.
 - 👀 Me interesso por criação e desenvolvimento de produtos, inteligência artificial, banco de dados e internet das coisas.
-- 🌱 Atualmente estou trabalhando no desenvolvimento do produto de Benefícios no PicPay, responsável tecnologicamente pelo back-end.
-- 📫 Você pode me encontrar no slack como @Dk Ribeiro ou no andre.ribeiro@picpay.com
-
-<!---
-dkribeirop/dkribeirop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 Atualmente estou trabalhando como Staff no PicPay, responsável tecnicamente pelo time de desenvolvimento de 4 produtos.
+- 📫 Você pode me encontrar no Linkedin: https://www.linkedin.com/in/dkribeiro/
