@@ -1,4 +1,1 @@
-- 👋 Olá, eu sou o @dkribeirop, Desenvolvedor Fullstack desde 2008.
-- 👀 Me interesso por criação e desenvolvimento de produtos, inteligência artificial, banco de dados e internet das coisas.
-- 🌱 Atualmente estou trabalhando como Staff no PicPay, responsável tecnicamente pelo time de desenvolvimento de 4 produtos.
-- 📫 Você pode me encontrar no Linkedin: https://www.linkedin.com/in/dkribeiro/
+Hello! I also use gilab: https://gitlab.com/dkribeiro
