@@ -23,6 +23,4 @@ I excel at transforming ideas into scalable software, managing the full developm
 
 -----
 
-
-[Gitlab](https://gitlab.com/dkribeiro)  
-[Old Github](https://github.com/dkribeiroold)
+You can also check my [Gitlab](https://gitlab.com/dkribeiro) and [Old Github](https://github.com/dkribeiroold)
