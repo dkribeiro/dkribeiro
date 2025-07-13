@@ -23,7 +23,6 @@ I excel at transforming ideas into scalable software, managing the full developm
 
 -----
 
-Hello! I also use gilab: https://gitlab.com/dkribeiro
 
-[Gitlab](https://gitlab.com/dkribeiro)
+[Gitlab](https://gitlab.com/dkribeiro)  
 [Old Github](https://github.com/dkribeiroold)
