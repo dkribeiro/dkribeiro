@@ -23,4 +23,7 @@ I excel at transforming ideas into scalable software, managing the full developm
 
 -----
 
-You can also check my [Gitlab](https://gitlab.com/dkribeiro) and [Old Github](https://github.com/dkribeiroold)
+You can also check my [Gitlab](https://gitlab.com/dkribeiro) and [Old Github](https://github.com/dkribeiroold)  
+
+  
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/dkribeiro/xpwith)
